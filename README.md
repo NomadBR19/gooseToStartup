@@ -5,6 +5,7 @@ What is it ?
 
 How to ?
 / Simply execute the main.bat. This will create a copy of the main directory in the current user's documents and run the .ps1 which will create a shortcut of the .exe in the startup directory.
+
 // Try to run the main.exe in admin if it dosn't work.
 
 Who create GooseDesktop ?
